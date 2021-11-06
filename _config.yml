@@ -17,3 +17,5 @@ author:              "Tosho Tarib"
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
+logo: 'assets/img/logo.png'
+favicon: 'assets/img/favicon.png'

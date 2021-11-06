@@ -1,13 +1,13 @@
 <header class="site-header">
   <a href="#default" class="logo">
-    <img src="/assets/img/logo.png" alt="logo" width="20" height="25">
+    <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}" width="20" height="25">
   </a>
   <h3 class="site-title">
     <a href="{{ site.github.url }}/">{{ site.title }}</a>
   </h3>
-  <a class="navbar-brand" href="{{ site.baseurl }}/">
+<!-- <a class="navbar-brand" href="{{ site.baseurl }}/">
     <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
-  </a>
+  </a> -->
   <nav class="menu-list">
     {% for item in site.data.settings.menu %}
       <a href="{{ site.github.url }}/{{ item.url }}" class="menu-link">{{ item.name }}</a>
