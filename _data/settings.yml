@@ -7,10 +7,10 @@ disqus:
 google-ID: 'G-H1EY97H2S4'
 
 menu:
-- {name: 'Design',             url: 'facts'}
-- {name: 'Learning Resources', url: 'resources'}
-- {name: 'Sample Posts',       url: 'sample-posts'}
-- {name: 'Documentation',      url: 'documentation'}
+#- {name: 'Design',             url: 'facts'}
+#- {name: 'Learning Resources', url: 'resources'}
+#- {name: 'Sample Posts',       url: 'sample-posts'}
+#- {name: 'Documentation',      url: 'documentation'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 
