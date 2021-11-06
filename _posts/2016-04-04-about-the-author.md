@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "About the Author"
+title: "AB"
 author: "Paul Le"
 categories: facts
 tags: [sample]
