@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Explore"
+title: "When Soul shapes the Physique"
 author: "Tosho Tarib"
 categories: resources
 tags: [documentation,sample]
