@@ -12,6 +12,7 @@
 }
 .content-wrapper {
   padding-top: $header-thickness+10px;
+  padding-left: $header-width+10px;
   margin: auto;
   display: block;
   width: $container-width - 20px;
